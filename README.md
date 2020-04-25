@@ -1,5 +1,7 @@
 # Latest changes.
 
+**Added fancy_rectangle.py.** Draw fancy rectangles and get that authentic look in your applications
+
 **Added realtime_emotion_plotting.py.** Everything that multi_label_probability.py does PLUS realtime plotting (with legend)
 of all emotions over time (t) in seconds and each emotion is plotted with its float(int) values (emotion_angry,emotion_happy, etc...) 
 
